@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_DeBord_Joshua", "Classes_DeBord_Joshua.csproj", "{01C51286-353E-4069-9A40-01E81EA95579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C51286-353E-4069-9A40-01E81EA95579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C51286-353E-4069-9A40-01E81EA95579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C51286-353E-4069-9A40-01E81EA95579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C51286-353E-4069-9A40-01E81EA95579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B189CA-5DB6-4737-A87C-DC8CB90E6B05}
+	EndGlobalSection
+EndGlobal
