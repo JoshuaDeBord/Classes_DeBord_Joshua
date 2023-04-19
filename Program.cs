@@ -13,7 +13,7 @@ namespace Classes_DeBord_Joshua
             Console.WriteLine("What is your name?"); //asks the user to input their name into the console
             string userName = Console.ReadLine();
 
-            greetings.Hello("Joshua");
+            greetings.Hello("Pineapple man"); //
           
 
 
